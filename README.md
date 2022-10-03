@@ -7,5 +7,5 @@
 
 ---
 
-[인공지능 적당한 이미지](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTExMTdfMTkw%2FMDAxNjM3MTQ2OTMyNDc5.4vaeCkm4rprsEEDzVzpgbwNtN5GZMcHY4mlo196qNusg.cvF2CaqKVmX5zz6xiv4BgkojgCH0eJUIgdq6Mr_0Hpwg.JPEG.loa-consulting-group%2F3.jpg&type=sc960_832)
+![인공지능 적당한 이미지](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTExMTdfMTkw%2FMDAxNjM3MTQ2OTMyNDc5.4vaeCkm4rprsEEDzVzpgbwNtN5GZMcHY4mlo196qNusg.cvF2CaqKVmX5zz6xiv4BgkojgCH0eJUIgdq6Mr_0Hpwg.JPEG.loa-consulting-group%2F3.jpg&type=sc960_832)
 
